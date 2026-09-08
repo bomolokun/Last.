@@ -1,7 +1,7 @@
 # Last. Support
 
 For help, bug reports, or feature requests, email:
-YOUR_SUPPORT_EMAIL
+bamisticomo@gmail.com
 
 When reporting an issue, include:
 - Your device model and iOS version
