@@ -1,6 +1,7 @@
 # Terms of Service for Last.
 
-**Effective date:** September 9, 2026  
+**Effective date:** September 9, 2026
+
 **Last updated:** September 9, 2026
 
 ## 1. About these terms
@@ -54,6 +55,12 @@ Things, full history and print archive views, premium poster styles, supported
 premium widgets and exports, Keep Handy, and automatic cloud sync. Device and
 operating-system support may affect individual features.
 
+We may introduce additional features after launch that are available only with
+an active Last Plus Monthly or Last Plus Annual subscription. We will clearly
+identify any subscription-only features and their purchase requirements when
+they become available. These terms do not promise any particular future feature
+or release date.
+
 ## 5. Subscriptions, billing, and refunds
 
 The App Store purchase confirmation shows the applicable price, currency,
@@ -88,6 +95,18 @@ Last Lifetime permanently unlocks the complete launch premium experience,
 including automatic private iCloud sync. There is no recurring Last. fee for
 those features. We will not convert that purchase into a subscription or remove
 its cloud access because a separate Plus subscription ends.
+
+Lifetime does not include every future feature or service we may introduce.
+New features designated as subscription-only require an active Last Plus Monthly
+or Last Plus Annual subscription and are not included with Lifetime, unless we
+expressly included them in your Lifetime purchase. This distinction does not
+remove or restrict the features already included in your Lifetime purchase,
+including automatic private iCloud sync.
+
+If you own Lifetime and also subscribe to Last Plus, subscription-only features
+are available while that subscription is active. When the subscription expires,
+you retain your Lifetime features and cloud sync, but access to subscription-only
+features ends.
 
 Lifetime access remains subject to the software license and the technical
 requirements of supported devices and Apple services. It does not guarantee
@@ -189,5 +208,6 @@ use a court, regulator, or consumer remedy available under mandatory local law.
 
 Direct questions, support requests, complaints, and claims to:
 
-**Developer:** Bamikale Omolokun  
+**Developer:** Bamikale Omolokun
+
 **Email:** [bamisticomo@gmail.com](mailto:bamisticomo@gmail.com)
